@@ -1,0 +1,8 @@
+# 필수 (표준 라이브러리 + 아래 둘 뿐):
+PyYAML>=6.0
+
+# 선택(optional) — 없어도 파이프라인 전체가 규칙 기반(fallback)으로 동작한다.
+# 실제 유튜브 자막을 수집하려면:
+#   pip install youtube-transcript-api yt-dlp
+# Claude로 실제 의미 기반 증류/종합을 쓰려면:
+#   pip install anthropic

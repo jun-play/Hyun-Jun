@@ -1,0 +1,41 @@
+# 삶의 정수를 뽑아내기 위한 도메인(주제) 분류 체계
+#
+# 유튜브/도서에서 들어오는 원천 자료를 이 태그들로 분류한 뒤,
+# 같은 도메인 안에서 조언을 종합(distill)한다.
+# 새로운 삶의 영역이 필요하면 여기에 항목을 추가하면 된다 (코드 변경 불필요).
+
+- id: money_management
+  name_ko: "돈 관리 / 재무 관리"
+  name_en: "Personal Finance & Money Management"
+  description: >
+    가계부, 저축, 부채 관리, 지출 통제 등 개인/가정의 돈을 다루는 방법.
+  keywords: ["돈 관리", "가계부", "저축", "지출", "부채", "재무", "예산", "budget", "saving"]
+
+- id: wealth_building
+  name_ko: "부의 축적 / 투자"
+  name_en: "Wealth Building & Investing"
+  description: >
+    투자, 사업, 부동산, 자산 증식 등 "돈을 많이 벌고 싶다"에 대응하는 영역.
+  keywords: ["투자", "주식", "부동산", "사업", "창업", "자산", "부자", "invest", "stock"]
+
+- id: career_professional
+  name_ko: "커리어 / 전문직 개업"
+  name_en: "Career & Professional Practice"
+  description: >
+    개업 회계사처럼 특정 전문직/커리어를 시작하고 성장시키는 방법
+    (개업 준비, 영업, 전문성, 자격 활용 전략 등).
+  keywords: ["개업", "회계사", "커리어", "이직", "전문직", "창업", "career", "practice"]
+
+- id: family_relationships
+  name_ko: "가족 / 부부 관계"
+  name_en: "Family & Marriage"
+  description: >
+    배우자(와이프)와의 관계, 가장으로서의 역할, 자녀 양육 등 가족 안에서의 행복.
+  keywords: ["와이프", "배우자", "부부", "가족", "가장", "결혼", "육아", "family", "spouse"]
+
+- id: happiness_wellbeing
+  name_ko: "행복한 삶 / 웰빙"
+  name_en: "Happiness & Wellbeing"
+  description: >
+    위 영역들을 관통하는 "행복한 삶을 누리기 위한" 태도, 습관, 마음가짐.
+  keywords: ["행복", "웰빙", "습관", "자기계발", "마음가짐", "삶의 의미", "happiness", "wellbeing"]
